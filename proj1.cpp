@@ -4,11 +4,6 @@
  * CS 219.1001
  */
 
-/*
-	TODO: 
-	make readme, test on linux
-*/
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
